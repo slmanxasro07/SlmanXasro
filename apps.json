@@ -1,0 +1,47 @@
+{
+    "name": "SlmanXasro IPA Repo",
+    "identifier": "netlify.app.slmanxasro.repo",
+    "sourceURL": "https://repo.slmanxasro.netlify.app",
+    "iconURL": "https://slmanxasro.netlify.app/Repo/img/SlmanXasro/SlmanXasro.png",
+    "website": "https://slmanxasro.netlify.app",
+    "subtitle": "Biggest Updated Modified IPA Library for Sideloading - slmanxasro.netlify.app",
+    "META": {
+        "repoName": "SlmanXasro IPA Repo",
+        "repoIcon": "https://slmanxasro.netlify.app/Repo/img/SlmanXasro/SlmanXasro.png"
+    },
+    "apps": [
+
+            "name": "VideoStarPro ViP",
+            "type": 1,
+            "bundleID": "com.frontierdesign.videostar",
+            "bundleIdentifier": "com.frontierdesign.videostar",
+            "version": "12.1.2",
+            "versionDate": "2024-03-31",
+            "fullDate": "20240331123459",
+            "size": 161499349,
+            "down": "https://archive.org/download/video-star-12.0.2-1709281496/Video%20Star_12.0.2_1709281496.ipa",
+            "downloadURL": "https://archive.org/download/video-star-12.0.2-1709281496/Video%20Star_12.0.2_1709281496.ipa",
+            "developerName": "",
+            "localizedDescription": "All Features Unlocked By SalmanKhasro
+						هەموو تایبەت مەندیەکان کراونەتەوە لەلایەن سەلمان",
+            "icon": "https://slmanxasro.netlify.app/Repo/main/icons/com.frontierdesign.videostar.png",
+            "iconURL": "https://slmanxasro.netlify.app/slmanxasro.netlify.app/Repo/main/icons/com.frontierdesign.videostar.png"
+        },
+        {
+            "name": "Solvie",
+            "type": 1,
+            "bundleID": "co.vulcanlabs.aistudy",
+            "bundleIdentifier": "co.vulcanlabs.aistudy",
+            "version": "2.2",
+            "versionDate": "2024-03-31",
+            "fullDate": "20240331122646",
+            "size": 54514423,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/31-03-2024/Solvie_2.2_Satella_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/31-03-2024/Solvie_2.2_Satella_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Satella",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/co.vulcanlabs.aistudy.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/co.vulcanlabs.aistudy.png"
+        }
+    ]
+}
